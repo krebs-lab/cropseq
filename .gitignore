@@ -2,3 +2,5 @@
 /venv
 requirements.txt
 TODO.md
+*.sqlite
+/*/mmu_pathways
