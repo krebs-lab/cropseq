@@ -1,5 +1,7 @@
 # Targeting T cell plasticity in kidney and gut inflammation by pooled single-cell CRISPR screening
 
+[![DOI](https://zenodo.org/badge/799611941.svg)](https://zenodo.org/doi/10.5281/zenodo.11661765)
+
 Repository to reproduce single cell analysis (See [https://www.science.org/doi/10.1126/sciimmunol.add6774](https://www.science.org/doi/10.1126/sciimmunol.add6774)). For analysis Python 3.8.0 with scanpy 1.9.1 and R 3.6.0 with Seurat v3.1 were used.
 
 ### Citation
