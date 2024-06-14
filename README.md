@@ -4,4 +4,4 @@ Repository to reproduce single cell analysis (See [https://www.science.org/doi/1
 
 ### Citation
 
-Leon U. B. Enk *et al.*, Targeting T cell plasticity in kidney and gut inflammation by pooled single-cell CRISPR screening. *Sci. Immunol.* **9**,eadd6774 (2024). [DOI:10.1126/sciimmunol.add6774](https://doi.org/10.1126/sciimmunol.add6774)
+Leon U. B. Enk *et al.*, Targeting T cell plasticity in kidney and gut inflammation by pooled single-cell CRISPR screening. *Sci. Immunol.* **9**, eadd6774 (2024). [DOI:10.1126/sciimmunol.add6774](https://doi.org/10.1126/sciimmunol.add6774)
